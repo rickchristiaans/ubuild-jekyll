@@ -43,7 +43,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2021/06/29/animatie-fuz-kleinverpakking-frites.mp4"
+    image: "/uploads/2021/06/29/aritco_homelift_referenz_06.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
