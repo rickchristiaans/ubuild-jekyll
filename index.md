@@ -91,7 +91,7 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/06/29/vinth-logo.svg"
+  image: "/uploads/2021/06/29/aritco_homelift_referenz_06.jpg"
   col_2: Test<br>Test 2<br>Test 3
   col_3: Test<br>Test 2<br>Test 3
   col_4: Test<br>Test 2<br>Test 3
