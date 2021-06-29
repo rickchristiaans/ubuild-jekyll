@@ -34,6 +34,11 @@ page_sections:
     image: "/uploads/2021/06/29/pexels-skitterphoto-322070.jpg"
     alt_text: Product Shot
   background_image: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/06/29/aritco_homelift_referenz_06.jpg"
+  slug: ''
+  caption: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
