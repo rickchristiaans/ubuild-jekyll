@@ -39,6 +39,10 @@ page_sections:
   image: "/uploads/2021/06/29/aritco_homelift_referenz_06.jpg"
   slug: ''
   caption: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
